@@ -33,6 +33,7 @@ input{
     background-color: rgb(53, 53, 53);
     margin-top: 25px;
     color: white;
+    text-align: center;
 }
 
 input[type = "submit"]{
